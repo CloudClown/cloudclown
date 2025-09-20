@@ -1,4 +1,4 @@
-W<!-- Intro  -->
+<!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://www.linkedin.com/in/tahmid-chowdhury-1b55861ab/">Tahmid Rahman Chowdhury</a></b>
